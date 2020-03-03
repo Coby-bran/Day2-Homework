@@ -1,0 +1,34 @@
+.container-fluid{
+    background-color: yellow;
+}
+header{
+    background-color: blue;
+    border: black solid;
+    height: 250px;
+}
+nav{
+    background-color: green;
+    border: black solid;
+    height: 90px;
+}
+.con{
+    background-color: red;
+    border: black solid;
+    height: 350px;
+}
+.aside{
+    background-color: cyan;
+    border: black solid;
+    height: 350px;
+}
+.pro{
+    background-color: orange;
+    border: black solid;
+    height: 250px;
+}
+footer{
+    color: white;
+    background-color: black;
+    border: black solid;
+    height: 90px;
+}
